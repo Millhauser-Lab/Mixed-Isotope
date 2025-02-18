@@ -5,3 +5,5 @@ CW_ESEEM_data.xlsx contains continuous wave EPR spectra for Figure 1 and both ti
 The separate HYSCORE .DSC and .DTA files are raw data. These files are analyzed using Hyscorean, with parameters described in the manuscript. 
 
 FFT3pESEEMcalc.m is a Matlab routine for producing the plot of Supporting Information Fig. S5.
+
+email glennm@ucsc.edu with questions or requests for additional data
