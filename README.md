@@ -7,3 +7,7 @@ The separate HYSCORE .DSC and .DTA files are raw data. These files are analyzed 
 FFT3pESEEMcalc.m is a Matlab routine for producing the plot of Supporting Information Fig. S5.
 
 email glennm@ucsc.edu with questions or requests for additional data
+
+manuscript available at doi: 10.1016/j.jbc.2025.108311
+
+Pubmed: PMID: 39955064
