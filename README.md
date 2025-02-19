@@ -7,7 +7,7 @@ https://github.com/JeschkeLab/Hyscorean
 
 FFT3pESEEMcalc.m is a Matlab routine for producing the plot of Supporting Information Fig. S5.
 
-email glennm@ucsc.edu with questions or requests for additional data.
+Email glennm@ucsc.edu with questions or requests for additional data.
 
 manuscript available at doi: 10.1016/j.jbc.2025.108311
 
