@@ -1,4 +1,4 @@
-update EPRdata.zip contains Data for figures 1, 2 and 3.
+EPRdata.zip contains Data for figures 1, 2 and 3.
 
 CW_ESEEM_data.xlsx contains continuous wave EPR spectra for Figure 1 and both time-domain and frequency transformed data for Figure 2. Pulse sequences are described in the manuscript.
 
